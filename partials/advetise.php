@@ -1,0 +1,1 @@
+<img src="<?php echo home_base_url('');?>assets/images/advertisement.jpg" class="img-fluid">
